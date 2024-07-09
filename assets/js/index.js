@@ -8,7 +8,7 @@ var totalImage = 0;
 async function sentRequest(url) {
     return $.ajax({
         url: url,
-        type: 'POST',
+        type: 'GET',
         dataType: 'JSON'
     });
 }
