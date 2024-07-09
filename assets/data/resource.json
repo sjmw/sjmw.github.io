@@ -1,0 +1,16 @@
+{
+  "categoryDetail": [
+    {
+      "subId": "icon",
+      "subName": "图标素材",
+      "navList": [
+        {
+          "navName": "Font Awesome",
+          "navDesc": "网络上最流行的图标集和工具包。",
+          "navLogo": "",
+          "navUrl": "https://fa5.dashgame.com/"
+        }
+      ]
+    }
+  ]
+}

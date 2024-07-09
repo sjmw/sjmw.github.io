@@ -1,0 +1,22 @@
+{
+  "categoryDetail": [
+    {
+      "subId": "netPenetration",
+      "subName": "内网穿透",
+      "navList": [
+        {
+          "navName": "乐青映射",
+          "navDesc": "乐青映射 | LoCyanFrp 首页_免费_高速_全公益_无限流量_不限制带宽,要实名支付宝认证(1.2元,后续每天签到领流量)",
+          "navLogo": "",
+          "navUrl": "https://locyanfrp.cn/"
+        },
+        {
+          "navName": "爱奇艺",
+          "navDesc": "按其以视频",
+          "navLogo": "",
+          "navUrl": "https://iqyi.com"
+        }
+      ]
+    }
+  ]
+}

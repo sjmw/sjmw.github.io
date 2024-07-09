@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "常用工具",
+      "subName": "tools",
+      "iconClass": "fas fa-toolbox"
+    },
+    {
+      "id": "2",
+      "name": "资讯学习",
+      "subName": "learn",
+      "iconClass": "fas fa-charging-station"
+    },
+    {
+      "id": "3",
+      "name": "破解资源",
+      "subName": "crack",
+      "iconClass": "fas fa-fire"
+    },
+    {
+      "id": "4",
+      "name": "图标素材",
+      "subName": "resource",
+      "iconClass": "fas fa-folder-open"
+    },
+    {
+      "id": "5",
+      "name": "脚本",
+      "subName": "script",
+      "iconClass": "fas fa-viruses"
+    }
+  ],
+  "image": {
+    "total": "11"
+  }
+}

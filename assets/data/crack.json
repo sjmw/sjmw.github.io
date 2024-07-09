@@ -1,0 +1,57 @@
+{
+  "categoryDetail": [
+    {
+      "subId": "dev",
+      "subName": "开发资源",
+      "navList": [
+        {
+          "navName": "Jrebel",
+          "navDesc": "Jrebel 热部署java项目",
+          "navLogo": "",
+          "navUrl": "https://www.jpy.wang/page/jrebel.html"
+        },
+        {
+          "navName": "JetBrains License",
+          "navDesc": "JetBrains License Generator",
+          "navLogo": "",
+          "navUrl": "https://junlong.plus/ztool/jetbra"
+        },
+        {
+          "navName": "Typora",
+          "navDesc": "Typora破解插件",
+          "navLogo": "",
+          "navUrl": "https://github.com/743859910/Typora_Unlocker"
+        }
+      ]
+    },    {
+      "subId": "crackSoftware",
+      "subName": "破解软件",
+      "navList": [
+        {
+          "navName": "果核剥壳",
+          "navDesc": "果核剥壳 - 互联网的净土",
+          "navLogo": "",
+          "navUrl": "https://www.ghxi.com/"
+        },
+        {
+          "navName": "th_sjy",
+          "navDesc": "th_sjy 专注软件汉化和资源分享，Software localization, Sinicization",
+          "navLogo": "http://www.th-sjy.com/wp-content/themes/D8/img/logo.png",
+          "navUrl": "http://www.th-sjy.com"
+        },
+        {
+          "navName": "茵蒂克丝",
+          "navDesc": "ZMX - 茵蒂克丝官网 - 魔道书图书馆 - IT技术交流论坛 - 完美幸福 - 追求梦想 - itzmx.com",
+          "navLogo": "https://cdn.linux.do/uploads/default/optimized/3X/f/0/f0eec44920f273f0d066c9acb9ee814f53187e22_2_32x32.png",
+          "navUrl": "https://www.itzmx.com/"
+        },
+        {
+          "navName": "52破解",
+          "navDesc": "吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn",
+          "navLogo": "",
+          "navUrl": "https://www.itzmx.com/"
+        }
+      ]
+    }
+  ]
+}

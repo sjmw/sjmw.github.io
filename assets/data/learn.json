@@ -1,0 +1,75 @@
+{
+  "categoryDetail": [
+    {
+      "subId": "learnResource",
+      "subName": "学习资源",
+      "navList": [
+        {
+          "navName": "马士兵",
+          "navDesc": "马士兵教育官网",
+          "navLogo": "",
+          "navUrl": "https://www.mashibing.com/"
+        },
+        {
+          "navName": "马士兵代码仓库",
+          "navDesc": "马士兵代码仓库",
+          "navLogo": "",
+          "navUrl": "https://git.mashibing.com/web/"
+        },
+        {
+          "navName": "力扣",
+          "navDesc": "力扣 (LeetCode) 全球极客挚爱的技术成长平台",
+          "navLogo": "",
+          "navUrl": "https://leetcode.cn/"
+        },
+        {
+          "navName": "码云",
+          "navDesc": "码云",
+          "navLogo": "",
+          "navUrl": "https://gitee.com/"
+        },        {
+          "navName": "github",
+          "navDesc": "github",
+          "navLogo": "",
+          "navUrl": "https://github.com"
+        }
+      ]
+    },
+    {
+      "subId": "blog",
+      "subName": "博客",
+      "navList": [
+        {
+          "navName": "CSND",
+          "navDesc": "一个博客",
+          "navLogo": "",
+          "navUrl": "https://www.csdn.cn"
+        },
+        {
+          "navName": "LinuxDo",
+          "navDesc": "新的理想型社区",
+          "navLogo": "",
+          "navUrl": "https://linux.do"
+        }
+      ]
+    },
+    {
+      "subId": "forum",
+      "subName": "论坛",
+      "navList": [
+        {
+          "navName": "MT论坛",
+          "navDesc": "MT管理器2.0官方论坛,MT官网,MT管理器论坛,MT管理器,MT管理器教程,MT最新版本 ",
+          "navLogo": "",
+          "navUrl": "https://bbs.binmt.cc"
+        },
+        {
+          "navName": "LinuxDo",
+          "navDesc": "(160) LINUX DO - 新的理想型社区",
+          "navLogo": "",
+          "navUrl": "https://linux.do"
+        }
+      ]
+    }
+  ]
+}

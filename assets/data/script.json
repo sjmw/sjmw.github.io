@@ -1,0 +1,22 @@
+{
+  "categoryDetail": [
+    {
+      "subId": "netPenetration",
+      "subName": "脚本资源",
+      "navList": [
+        {
+          "navName": "油猴中文网",
+          "navDesc": "油猴下载,油猴脚本,油猴插件",
+          "navLogo": "",
+          "navUrl": "https://bbs.tampermonkey.net.cn/forum-2-1.html"
+        },
+        {
+          "navName": "Greasy Fork",
+          "navDesc": "Greasy Fork",
+          "navLogo": "",
+          "navUrl": "https://greasyfork.org/zh-CN/scripts"
+        }
+      ]
+    }
+  ]
+}
