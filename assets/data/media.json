@@ -1,0 +1,78 @@
+{
+  "categoryDetail": [
+    {
+      "subId": "music",
+      "subName": "音乐",
+      "navList": [
+        {
+          "navName": "是青旨啊",
+          "navDesc": "一个简约的在线音乐播放器，具有音乐搜索、播放、每日推荐、私人FM、歌词显示、歌曲评论、网易云登录与云盘等功能,也能免费下载音乐",
+          "navLogo": "",
+          "navUrl": "https://pt.sayqz.com/"
+        },
+        {
+          "navName": "放屁音乐网 ",
+          "navDesc": "放屁网-全网音乐MP3高品质在线免费下载、在线免费播放",
+          "navLogo": "",
+          "navUrl": "https://www.fangpi.net/"
+        },
+        {
+          "navName": "无损生活 ",
+          "navDesc": "无损生活 - 全网无损音乐免费下载，音乐搜索,音乐在线试听,下载,在线解析网",
+          "navLogo": "",
+          "navUrl": "https://flac.life/"
+        },
+        {
+          "navName": "果核音乐 ",
+          "navDesc": "果核音乐,每天可以免费下载20首",
+          "navLogo": "",
+          "navUrl": "https://ghyinyue.com/"
+        },
+        {
+          "navName": "音乐直链搜索 ",
+          "navDesc": "特制多站合一音乐搜索解决方案",
+          "navLogo": "",
+          "navUrl": "https://xiageba.com/"
+        },        {
+          "navName": "下歌吧 ",
+          "navDesc": "下歌吧 - 全网音乐 高品质MP3 无损flac 在线免费下载 免费播放",
+          "navLogo": "",
+          "navUrl": "https://music.liuzhijin.cn/"
+        },  {
+          "navName": "HEMusic,免费播放音乐 ",
+          "navDesc": "HEMusic,免费播放音乐，需登陆，用户名秘密：linuxdo",
+          "navLogo": "",
+          "navUrl": "https://music.wjhe.top/"
+        }
+      ]
+    },
+    {
+      "subId": "video",
+      "subName": "影视",
+      "navList": [
+        {
+          "navName": "在线之家-偏欧美剧",
+          "navDesc": "在线之家 - 在线观看最新美剧|最新韩剧|天天美剧|人人美剧",
+          "navLogo": "",
+          "navUrl": "https://www.zxzj.site/"
+        },
+        {
+          "navName": "影视森林-导航",
+          "navDesc": "影视森林,电影,电视剧,综艺,游戏视频,在线观看,电影电视剧排行榜",
+          "navLogo": "",
+          "navUrl": "https://www.549.tv/"
+        },        {
+          "navName": "影视合集",
+          "navDesc": "影视导航贴，还有好几十个网站",
+          "navLogo": "",
+          "navUrl": "https://linux.do/t/topic/66588"
+        }, {
+          "navName": "黑夜影视",
+          "navDesc": "黑夜影院官方网址(darkvod.com)一个专门为广大网友们提供最新高清免费电影电视剧VIP免费观看影视电影网，黑夜影院内容包括短剧电影电视剧视频动漫综艺以及福利影视等。",
+          "navLogo": "",
+          "navUrl": "https://darkvod.com/"
+        }
+      ]
+    }
+  ]
+}

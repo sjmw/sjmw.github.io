@@ -29,6 +29,11 @@
       "name": "脚本",
       "subName": "script",
       "iconClass": "fas fa-viruses"
+    },{
+      "id": "6",
+      "name": "影视资源",
+      "subName": "media",
+      "iconClass": "fas fa-music"
     }
   ],
   "image": {

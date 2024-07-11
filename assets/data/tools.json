@@ -17,6 +17,46 @@
           "navUrl": "https://iqyi.com"
         }
       ]
+    },
+    {
+      "subId": "netLand",
+      "subName": "机场",
+      "navList": [
+        {
+          "navName": "顶级机场",
+          "navDesc": "最低12一年，每个月200g流量，速度好像还行",
+          "navLogo": "",
+          "navUrl": "https://xn--mes358a9urctx.com/"
+        },
+        {
+          "navName": "YYDS中国",
+          "navDesc": "可以白嫖，每个月50g,白嫖码会发到注册的邮箱",
+          "navLogo": "",
+          "navUrl": "https://cloud.yydschina.top/"
+        }
+      ]
+    },    {
+      "subId": "GPT",
+      "subName": "免费GPT",
+      "navList": [
+        {
+          "navName": "❀免费API",
+          "navDesc": "❀免费API【GPT3.5+Kimi+跃问+零一万物+通义千问+智谱清言+秘塔+Groq+讯飞星火+聆听智能模型】，注册即送金额✿",
+          "navLogo": "",
+          "navUrl": "https://api.freegpt.art/"
+        },
+        {
+          "navName": "免费在线体验OpenAI的先进多模态AI平台GPT-4",
+          "navDesc": "免费在线体验OpenAI的先进多模态AI平台GPT-4",
+          "navLogo": "",
+          "navUrl": "https://gpt4o.so/zh-CN"
+        },        {
+          "navName": "poe",
+          "navDesc": "Poe - 快捷实用的AI聊天-4",
+          "navLogo": "",
+          "navUrl": "https://poe.com/"
+        }
+      ]
     }
   ]
 }
