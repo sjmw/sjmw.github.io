@@ -61,6 +61,12 @@
           "navDesc": "免费GPT，免费刷1000万额度gpt3.5模型和gpt4.0模型",
           "navLogo": "",
           "navUrl": "https://free.fastapi.ai/"
+        },
+        {
+          "navName": "大模型竞技场",
+          "navDesc": "免登录免注册，需要魔法，所有大模型可以在线使用",
+          "navLogo": "",
+          "navUrl": "https://chat.lmsys.org/"
         }
       ]
     }
