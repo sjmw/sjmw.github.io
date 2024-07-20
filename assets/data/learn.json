@@ -1,6 +1,18 @@
 {
   "categoryDetail": [
     {
+      "subId": "doc",
+      "subName": "文档",
+      "navList": [
+        {
+          "navName": "B站UP石添添文档(Java)",
+          "navDesc": "语雀在线文档",
+          "navLogo": "",
+          "navUrl": "https://www.yuque.com/shitiantian-my2mt/uu4rgv"
+        }
+      ]
+    },
+    {
       "subId": "learnResource",
       "subName": "学习资源",
       "navList": [
