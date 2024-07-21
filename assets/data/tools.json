@@ -9,6 +9,18 @@
           "navDesc": "乐青映射 | LoCyanFrp 首页_免费_高速_全公益_无限流量_不限制带宽,要实名支付宝认证(1.2元,后续每天签到领流量)",
           "navLogo": "",
           "navUrl": "https://locyanfrp.cn/"
+        },
+        {
+          "navName": "Free FRP 免费 FRP 内网穿透",
+          "navDesc": "Free FRP 免费 FRP 内网穿透",
+          "navLogo": "",
+          "navUrl": "https://freefrp.net/"
+        },
+        {
+          "navName": "HP-PRO内网映射",
+          "navDesc": "HP-PRO内网映射",
+          "navLogo": "",
+          "navUrl": "https://hpproxy.cn/"
         }
       ]
     },
@@ -29,7 +41,8 @@
           "navUrl": "https://cloud.yydschina.top/"
         }
       ]
-    },    {
+    },
+    {
       "subId": "GPT",
       "subName": "免费GPT",
       "navList": [
@@ -44,7 +57,8 @@
           "navDesc": "免费在线体验OpenAI的先进多模态AI平台GPT-4",
           "navLogo": "",
           "navUrl": "https://gpt4o.so/zh-CN"
-        },        {
+        },
+        {
           "navName": "poe",
           "navDesc": "Poe - 快捷实用的AI聊天-4",
           "navLogo": "",
