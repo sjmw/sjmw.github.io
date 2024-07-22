@@ -39,6 +39,12 @@
           "navDesc": "可以白嫖，每个月50g,白嫖码会发到注册的邮箱",
           "navLogo": "",
           "navUrl": "https://cloud.yydschina.top/"
+        },
+        {
+          "navName": "宝可梦免费机场",
+          "navDesc": "宝可梦免费机场,免费白嫖社区专属优惠码: linux.do",
+          "navLogo": "",
+          "navUrl": "https://52pokemon.cc/"
         }
       ]
     },
@@ -81,6 +87,36 @@
           "navDesc": "免登录免注册，需要魔法，所有大模型可以在线使用",
           "navLogo": "",
           "navUrl": "https://chat.lmsys.org/"
+        }
+      ]
+    },
+    {
+      "subId": "nav",
+      "subName": "导航",
+      "navList": [
+        {
+          "navName": "toolify导航",
+          "navDesc": "发现最好的AI网站和AI工具",
+          "navLogo": "",
+          "navUrl": "https://www.toolify.ai/zh/"
+        },
+        {
+          "navName": "AI工具箱导航",
+          "navDesc": "AI工具箱导航-国内外AI工具导航合集-AMZ123跨境导航",
+          "navLogo": "",
+          "navUrl": "https://www.amz123.com/ai"
+        },
+        {
+          "navName": "AI工具集",
+          "navDesc": "AI工具集 | 700+ AI工具集合官网，国内外AI工具集导航大全 ",
+          "navLogo": "",
+          "navUrl": "https://ai-bot.cn/"
+        },
+        {
+          "navName": "AI导航站",
+          "navDesc": "AI导航站 收录了国内外 3000+优质AI工具",
+          "navLogo": "",
+          "navUrl": "https://www.naviai.cn/"
         }
       ]
     }
