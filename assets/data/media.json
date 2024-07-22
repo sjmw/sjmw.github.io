@@ -95,6 +95,24 @@
           "navUrl": "https://share.dmhy.org/"
         }
       ]
+    },
+    {
+      "subId": "picture",
+      "subName": "图片",
+      "navList": [
+        {
+          "navName": "栗次元API",
+          "navDesc": "栗次元API-举个栗子,二次元图片",
+          "navLogo": "",
+          "navUrl": "https://t.alcy.cc/"
+        },
+        {
+          "navName": "栗次元API",
+          "navDesc": "栗次元API-举个栗子,二次元图片",
+          "navLogo": "",
+          "navUrl": "https://www.alcy.cc/tu"
+        }
+      ]
     }
   ]
 }
