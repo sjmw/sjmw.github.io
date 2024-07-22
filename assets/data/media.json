@@ -33,12 +33,14 @@
           "navDesc": "特制多站合一音乐搜索解决方案",
           "navLogo": "",
           "navUrl": "https://xiageba.com/"
-        },        {
+        },
+        {
           "navName": "下歌吧 ",
           "navDesc": "下歌吧 - 全网音乐 高品质MP3 无损flac 在线免费下载 免费播放",
           "navLogo": "",
           "navUrl": "https://music.liuzhijin.cn/"
-        },  {
+        },
+        {
           "navName": "HEMusic,免费播放音乐 ",
           "navDesc": "HEMusic,免费播放音乐，需登陆，用户名秘密：linuxdo",
           "navLogo": "",
@@ -61,16 +63,36 @@
           "navDesc": "影视森林,电影,电视剧,综艺,游戏视频,在线观看,电影电视剧排行榜",
           "navLogo": "",
           "navUrl": "https://www.549.tv/"
-        },        {
+        },
+        {
           "navName": "影视合集",
           "navDesc": "影视导航贴，还有好几十个网站",
           "navLogo": "",
           "navUrl": "https://linux.do/t/topic/66588"
-        }, {
+        },
+        {
           "navName": "黑夜影视",
           "navDesc": "黑夜影院官方网址(darkvod.com)一个专门为广大网友们提供最新高清免费电影电视剧VIP免费观看影视电影网，黑夜影院内容包括短剧电影电视剧视频动漫综艺以及福利影视等。",
           "navLogo": "",
           "navUrl": "https://darkvod.com/"
+        }
+      ]
+    },
+    {
+      "subId": "Torrent",
+      "subName": "磁力",
+      "navList": [
+        {
+          "navName": "proxygalaxy",
+          "navDesc": "proxygalaxy",
+          "navLogo": "",
+          "navUrl": "https://proxygalaxy.me/"
+        },
+        {
+          "navName": "動漫花園資源網",
+          "navDesc": "動漫花園資源網 - 動漫愛好者的自由交流平台",
+          "navLogo": "",
+          "navUrl": "https://share.dmhy.org/"
         }
       ]
     }
