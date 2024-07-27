@@ -21,6 +21,12 @@
           "navDesc": "HP-PRO内网映射",
           "navLogo": "",
           "navUrl": "https://hpproxy.cn/"
+        },
+        {
+          "navName": "iis7远程助手",
+          "navDesc": "Windows免费内网穿透",
+          "navLogo": "",
+          "navUrl": "http://3389.iis7.net/"
         }
       ]
     },
