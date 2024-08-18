@@ -93,6 +93,12 @@
           "navDesc": "免登录免注册，需要魔法，所有大模型可以在线使用",
           "navLogo": "",
           "navUrl": "https://chat.lmsys.org/"
+        },
+        {
+          "navName": "aurorai",
+          "navDesc": "【全模型】(GPT，Claude，Gemini，Llama，Mixtral， Deepseek，Kimi)，支持绘图，识图，上传文件，已接入linux.do",
+          "navLogo": "",
+          "navUrl": "https://aurorai.cn"
         }
       ]
     },
