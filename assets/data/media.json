@@ -75,6 +75,42 @@
           "navDesc": "黑夜影院官方网址(darkvod.com)一个专门为广大网友们提供最新高清免费电影电视剧VIP免费观看影视电影网，黑夜影院内容包括短剧电影电视剧视频动漫综艺以及福利影视等。",
           "navLogo": "",
           "navUrl": "https://darkvod.com/"
+        },
+        {
+          "navName": "NULLBR资源",
+          "navDesc": " 115 网盘的影视网站",
+          "navLogo": "",
+          "navUrl": "https://nullbr.online/"
+        },
+        {
+          "navName": "饭太硬",
+          "navDesc": "影视导航",
+          "navLogo": "",
+          "navUrl": "https://www.xn--sss604efuw.com/"
+        }
+      ]
+    },
+    {
+      "subId": "commic",
+      "subName": "二次元",
+      "navList": [
+        {
+          "navName": "H次元",
+          "navDesc": "H次元-汉化里番在线观看无弹窗广告",
+          "navLogo": "",
+          "navUrl": "https://h-ciyuan.com"
+        },
+        {
+          "navName": "hanime1",
+          "navDesc": "hanime1",
+          "navLogo": "",
+          "navUrl": "https://hanime1.me/?=spplan"
+        },
+        {
+          "navName": "hentaistream",
+          "navDesc": "hentaistream",
+          "navLogo": "",
+          "navUrl": "https://tube.hentaistream.com/"
         }
       ]
     },
